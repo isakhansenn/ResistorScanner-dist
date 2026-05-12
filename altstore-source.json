@@ -11,6 +11,13 @@
       "iconURL": "https://raw.githubusercontent.com/isakhansenn/ResistorScanner-dist/main/AppIcon-1024.png",
       "versions": [
         {
+          "version": "1.1",
+          "date": "2026-05-12",
+          "localizedDescription": "Versjonsnummer vises nederst i Skanner-fanen.",
+          "downloadURL": "https://github.com/isakhansenn/ResistorScanner-dist/raw/main/ResistorScanner.ipa",
+          "size": 690568
+        },
+        {
           "version": "1.0",
           "date": "2026-05-12",
           "localizedDescription": "Forste versjon av ResistorScanner.",
