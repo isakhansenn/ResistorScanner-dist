@@ -1,39 +1,23 @@
 {
   "name": "ResistorScanner",
-  "subtitle": "AI-drevet fargebånd-analyse for motstander",
-  "description": "ResistorScanner er en native iOS-app som bruker kamera og Claude Vision AI til å identifisere fargebånd på elektriske motstander og beregne motstanden i ohm. Utviklet av Isak Hansen som avsluttende prosjekt i TSD2610 App-utvikling ved USN.",
-  "iconURL": "https://raw.githubusercontent.com/isakhansenn/ResistorScanner-dist/main/AppIcon-1024.png",
-  "website": "https://github.com/isakhansenn/ResistorScanner-dist",
-  "tintColor": "1A4FA0",
+  "identifier": "com.isakhansen.resistorscanner-source",
   "apps": [
     {
       "name": "ResistorScanner",
       "bundleIdentifier": "test.ResistorScanner",
       "developerName": "Isak Hansen",
       "subtitle": "Analyser motstandsverdier med AI",
-      "localizedDescription": "Ta bilde av en motstand og få motstanden beregnet automatisk.\n\n• Støtter 4- og 5-bånds motstander\n• AI-drevet fargegjenkjenning via Claude Vision API\n• Rediger fargebånd manuelt ved feil\n• Fargekodetabell med leseveiledning\n• 15 språk støttes",
+      "localizedDescription": "Ta bilde av en motstand og fa motstanden beregnet automatisk. Stotter 4- og 5-bands motstander med AI-drevet fargegjenkjenning.",
       "iconURL": "https://raw.githubusercontent.com/isakhansenn/ResistorScanner-dist/main/AppIcon-1024.png",
-      "tintColor": "1A4FA0",
-      "category": "utilities",
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Brukes til å ta bilde av motstanden for analyse.",
-          "NSPhotoLibraryUsageDescription": "Brukes til å velge et eksisterende bilde av en motstand."
-        }
-      },
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-05-12T00:00:00Z",
-          "localizedDescription": "Første versjon av ResistorScanner.\n\n• AI-analyse av fargebånd\n• Manuell korrigering av farger\n• Tabs-navigasjon (Skanner, Referanse, Innstillinger)\n• 15 språk",
+          "date": "2026-05-12",
+          "localizedDescription": "Forste versjon av ResistorScanner.",
           "downloadURL": "https://github.com/isakhansenn/ResistorScanner-dist/raw/main/ResistorScanner.ipa",
-          "size": 690436,
-          "minOSVersion": "17.0"
+          "size": 690436
         }
       ]
     }
-  ],
-  "news": []
+  ]
 }
