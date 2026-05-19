@@ -11,6 +11,13 @@
       "iconURL": "https://raw.githubusercontent.com/isakhansenn/ResistorScanner-dist/main/AppIcon-1024.png",
       "versions": [
         {
+          "version": "1.3",
+          "date": "2026-05-19",
+          "localizedDescription": "Språkbytte oppdaterer nå hele appen umiddelbart — ingen omstart nødvendig.",
+          "downloadURL": "https://github.com/isakhansenn/ResistorScanner-dist/raw/main/ResistorScanner.ipa",
+          "size": 691762
+        },
+        {
           "version": "1.2",
           "date": "2026-05-19",
           "localizedDescription": "Språkbytte oppdaterer nå grensesnittet umiddelbart uten å starte appen på nytt.",
